@@ -18,4 +18,4 @@ def main():
         print(output)
 main()
 
-
+# remove the .DS_Store file first
